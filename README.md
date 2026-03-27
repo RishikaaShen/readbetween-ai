@@ -34,5 +34,5 @@ streamlit run app.py
 ## 💼 Author
 Rishikaa Shen
 
-Rishikaa Shen
+
 
