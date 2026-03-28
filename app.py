@@ -43,7 +43,7 @@ st.markdown("""
 """, unsafe_allow_html=True)
 
 # ------------------- GEMINI SETUP -------------------
-genai.configure(api_key="AIzaSyDNcAHSVgFur_w5pGkFCUOGw_fFIVvwIPU")
+genai.configure(api_key="Your API Key")
 
 # ------------------- FILE UPLOAD -------------------
 st.markdown("""
